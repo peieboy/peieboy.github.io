@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Hexo常用命令</title>
+      <link href="/2023/01/09/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+      <url>/2023/01/09/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<p>#注意以下命令需要切换到blog文件夹(cd blog)执行<br>hexo n “文章名称”  =&gt; hexo new “文章名称”  #这两个都是创建新文章，前者是简写模式，下同，new后面加一个draft可以生成草稿<br>hexo p  =&gt; hexo publish  #发布草稿<br>hexo g  =&gt; hexo generate  #生成<br>hexo s  =&gt; hexo server  #启动服务预览<br>hexo d  =&gt; hexo deploy  #部署<br>hexo server   #Hexo 会监视文件变动并自动更新，无须重启服务器。<br>hexo server -s   #静态模式<br>hexo server -p 5000   #更改端口<br>hexo server -i 192.168.1.1   #自定义IP<br>hexo clean   #清除缓存，网页正常情况下可以忽略此条命令<br>hexo g   #生成静态网页<br>hexo d   #开始部署</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 备忘录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>青年危机2022</title>
       <link href="/2023/01/08/%E9%9D%92%E5%B9%B4%E5%8D%B1%E6%9C%BA2022%20/"/>
       <url>/2023/01/08/%E9%9D%92%E5%B9%B4%E5%8D%B1%E6%9C%BA2022%20/</url>
